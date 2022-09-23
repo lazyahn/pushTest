@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/mac/Downloads/amqp-client-5.7.3.jar" sourcepath="/Users/mac/.m2/repository/com/rabbitmq/amqp-client/5.7.3/amqp-client-5.7.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Downloads/slf4j-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/AHN/TNMTECH/Dev_Java_1/workspace/RabbitmqTest/bin/californium-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/AHN/TNMTECH/Dev_Java_1/workspace/RabbitmqTest/bin/element-connector-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/AHN/TNMTECH/Dev_Java_1/workspace/RabbitmqTest/bin/scandium-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/AHN/TNMTECH/Dev_Java_1/workspace/RabbitmqTest/bin/commons-net-3.7.jar" sourcepath="/Users/mac/.m2/repository/commons-net/commons-net/3.7/commons-net-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/AHN/TNMTECH/Dev_Java_1/workspace/RabbitmqTest/bin/kafka-clients-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/MqttPublish/libs/org.eclipse.paho.client.mqttv3-1.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
